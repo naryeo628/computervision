@@ -1,0 +1,32 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exer_1", "Exer_1\Exer_1.vcxproj", "{8E63CE3A-34CD-4D53-ABC8-B386A8197E63}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "exer_1_2", "exer_1_2\exer_1_2.vcxproj", "{9A94DA8F-4F68-462E-BAE6-661FFB76F97A}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exer_2", "Exer_2\Exer_2.vcxproj", "{217C8DD3-B592-4DB3-9811-12D101420767}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{8E63CE3A-34CD-4D53-ABC8-B386A8197E63}.Debug|Win32.ActiveCfg = Debug|Win32
+		{8E63CE3A-34CD-4D53-ABC8-B386A8197E63}.Debug|Win32.Build.0 = Debug|Win32
+		{8E63CE3A-34CD-4D53-ABC8-B386A8197E63}.Release|Win32.ActiveCfg = Release|Win32
+		{8E63CE3A-34CD-4D53-ABC8-B386A8197E63}.Release|Win32.Build.0 = Release|Win32
+		{9A94DA8F-4F68-462E-BAE6-661FFB76F97A}.Debug|Win32.ActiveCfg = Debug|Win32
+		{9A94DA8F-4F68-462E-BAE6-661FFB76F97A}.Debug|Win32.Build.0 = Debug|Win32
+		{9A94DA8F-4F68-462E-BAE6-661FFB76F97A}.Release|Win32.ActiveCfg = Release|Win32
+		{9A94DA8F-4F68-462E-BAE6-661FFB76F97A}.Release|Win32.Build.0 = Release|Win32
+		{217C8DD3-B592-4DB3-9811-12D101420767}.Debug|Win32.ActiveCfg = Debug|Win32
+		{217C8DD3-B592-4DB3-9811-12D101420767}.Debug|Win32.Build.0 = Debug|Win32
+		{217C8DD3-B592-4DB3-9811-12D101420767}.Release|Win32.ActiveCfg = Release|Win32
+		{217C8DD3-B592-4DB3-9811-12D101420767}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal

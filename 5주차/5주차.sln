@@ -1,0 +1,26 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2010
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exer_1", "Exer_1\Exer_1.vcxproj", "{D133E662-2C54-42DF-8E6B-D08235EC98D8}"
+EndProject
+Project("{8BC9CEB8-8B4A-11D0-8D11-00A0C91BC942}") = "Exer_2", "Exer_2\Exer_2.vcxproj", "{A353BFCB-CADD-46D9-94C6-DEF2E9E33A80}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Win32 = Debug|Win32
+		Release|Win32 = Release|Win32
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{D133E662-2C54-42DF-8E6B-D08235EC98D8}.Debug|Win32.ActiveCfg = Debug|Win32
+		{D133E662-2C54-42DF-8E6B-D08235EC98D8}.Debug|Win32.Build.0 = Debug|Win32
+		{D133E662-2C54-42DF-8E6B-D08235EC98D8}.Release|Win32.ActiveCfg = Release|Win32
+		{D133E662-2C54-42DF-8E6B-D08235EC98D8}.Release|Win32.Build.0 = Release|Win32
+		{A353BFCB-CADD-46D9-94C6-DEF2E9E33A80}.Debug|Win32.ActiveCfg = Debug|Win32
+		{A353BFCB-CADD-46D9-94C6-DEF2E9E33A80}.Debug|Win32.Build.0 = Debug|Win32
+		{A353BFCB-CADD-46D9-94C6-DEF2E9E33A80}.Release|Win32.ActiveCfg = Release|Win32
+		{A353BFCB-CADD-46D9-94C6-DEF2E9E33A80}.Release|Win32.Build.0 = Release|Win32
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+EndGlobal
